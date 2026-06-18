@@ -19,9 +19,8 @@ Soy desarrollador web enfocado en Laravel y Vue.js, con experiencia en el desarr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dvg2311a&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+### 🔝 Featured Project
+https://github.com/dvg2311a/sumilandia
 ---
 [![](https://komarev.com/ghpvc/?username=dvg2311a&icon=2&color=0)](https://visitcount.itsvg.in)
 
