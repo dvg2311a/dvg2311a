@@ -19,8 +19,14 @@ Soy desarrollador web enfocado en Laravel y Vue.js, con experiencia en el desarr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Featured Project
-https://github.com/dvg2311a/sumilandia
+## 🚀 Featured Projects
+
+| Project | Role & Tech | Description |
+|----------|----------|----------|
+| 🎵 **ITZ'AT** | **Frontend**<br>Laravel • Inertia • Vue • SASS | Marketplace and tourism platform connecting artisans and tourists in San Juan de Oriente, enabling handcrafted product sales and local travel experiences. |
+| 📚 **Sumilandia** | **FrontEnd Developer**<br>Laravel • Vue • Inertia • MySQL | Sumilandia is an educational platform developed for primary and secondary school students, providing interactive tools and exercises to help them learn and strengthen their mathematics skills in an engaging way. |
+| ❄️ **GlacialWeb** | **Full Stack**<br>Laravel • Inertia • Vue • MySQL • DomCloud | Logistics management platform for Eskimo agencies, featuring asset tracking, inventory control, personnel management, and sales reporting. |
+
 ---
 [![](https://komarev.com/ghpvc/?username=dvg2311a&icon=2&color=0)](https://visitcount.itsvg.in)
 
